@@ -1,0 +1,7 @@
+New log file opened at Wed Feb 01 17:51:00 PST 2017 by 14406@Brians-MacBook-Pro.local
+Taking next connection to: 57149
+New client attempting to connect on port: 57150-57149
+  Address = /10.255.69.75:57149
+This client on port 57150 has uuid ef1a4f1d-0208-4c4a-b207-63b0cd7927cd configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-ef1a4f1d-0208-4c4a-b207-63b0cd7927cd
+Taking next connection to: 57149
